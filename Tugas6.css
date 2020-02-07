@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.satu{background-color:aqua;
+width:300px;
+height:100px;
+overflow: scroll;	
+border: 10px red dotted;	
+}
+
+.dua{background-color:aqua;
+width:300px;
+height:100px;
+overflow: scroll;	
+border: 5px green solid;	
+}
+
+.tiga{background-color:aqua;
+width:300px;
+height:100px;
+overflow: scroll;	
+border: 15px blue dashed;	
+}
